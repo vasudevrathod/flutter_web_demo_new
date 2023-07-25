@@ -106,28 +106,10 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'You have pushed the button this many times:',
+              'You have pushed the button this many timesssssssssss:',
             ),
-            
-            const Text(
-              'You have pushed the button this many Vasudev:',
-            ),
-            
-            const Text(
-              'You have pushed the button this many Rathod:',
-            ),
-            
-            const Text(
-              'You have pushed the button this many Rathod:',
-            ),
-            
-            const Text(
-              'You have pushed the button this many Rathod:',
-            ),
-            
-            const Text(
-              'You have pushed the button this many Rathod:',
-            ),
+          
+        
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
